@@ -27,7 +27,7 @@ int main(){
         }
     }
     if(cond1 && cond2 && cond3) cout<<"S";
-    else{cout<<"N";}
+    else(cout<<"N");
 
     return 0;
 }

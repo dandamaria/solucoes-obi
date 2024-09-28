@@ -25,7 +25,6 @@ int main(){
             estágio 5 **útimo**
     path(1) = min(path(2)+d12,path(3)+d13);
     */
-
    
 
 
